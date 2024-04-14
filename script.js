@@ -33,16 +33,21 @@ return employeesArray
 const displayAverageSalary = function(employee) {
   let salarySuma = 0;
   let ending = ''
+//const average = () => salarySuma/employee.length;{
 
   for (let i=0; i <employee.length; i++) {
-    salarySuma += employee[i].salary ;
+    salarySuma += employee[i].salary;
+  
   }
-
-  console.log (`the average salary in the organization is ${salarySuma}`)
+  console.log (`the average salary in the organization is ${salarySuma/employee.length}`)
 }
 
+
 // Select a random employee
-const getRandomEmployee = function(employeesArray) {
+const getRandomEmployee = function(employee) {
+  //const eNumber = math.floor(Math.random() * employee.length)
+  //console.log (`congrats to ${employee[eNumber].firstName} for winning this month award`);
+
   // TODO: Select and display a random employee
 }
 
