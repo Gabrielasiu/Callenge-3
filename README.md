@@ -15,6 +15,7 @@ This is how my webside looks like before adding emoployees.
 See the magic when you open the console !
 
 ![alt text](image.png)
-You can see my deployed website ---> https://gabrielasiu.github.io/Challenge-2/
+You can see my deployed website ---> https://gabrielasiu.github.io/Payroll-Tracker/
+
 
 
