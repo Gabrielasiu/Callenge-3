@@ -10,7 +10,7 @@ in the corporation. Also, they'll be able to choose a random employee
 amoung all of the data submitted, and select one employee for winning an 
 award or a lottery in case is needed. For this website,
 I applied basic knowledge in JavaScript, such as for loop, while loop, I created
-variables, constants and used different functions such a Math.random. 
+variables, constants, arrays and used different functions such a Math.random. 
 This is how my webside looks like before adding emoployees.
 See the magic when you open the console !
 
